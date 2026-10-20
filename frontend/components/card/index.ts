@@ -16,3 +16,5 @@ export {
   ViewFullDetailsButton,
   ViewFullDetailsDisclaimer,
 } from './ViewFullDetailsButton';
+export { CardDepositReceiptModal } from './CardDepositReceiptModal';
+export type { CardDepositReceiptModalProps } from './CardDepositReceiptModal';
